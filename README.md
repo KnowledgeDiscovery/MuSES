@@ -1,3 +1,7 @@
+# MuSES
+
+The `MuSES` repository contains code for a multilingual sentiment elicitation system for social media data. The method implemented here is described in [this paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6559997).
+
 ## Citation
 
 If you find the code in this respository useful for your research, please cite our paper:
